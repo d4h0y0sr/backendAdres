@@ -1,0 +1,19 @@
+```plaintext
+# Archivos y carpetas generados por .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
